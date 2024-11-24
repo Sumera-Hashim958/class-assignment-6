@@ -11,6 +11,11 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        smokey: "#F7F7F7",
+        sblack: "#000000",
+        swhite: "#FFFFFF",
+        sgrey: "#676767",
+        dgrey: "#505050",
       },
     },
   },
